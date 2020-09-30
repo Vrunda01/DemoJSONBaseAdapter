@@ -1,0 +1,17 @@
+{
+	"sites" : [
+		{
+			"site" : "Google",
+			"url" : "https://www.google.com"
+		},{
+			"site" : "Github",
+			"url" : "https://github.com/Vrunda01"
+		},{
+			"site" : "LinkedIn",
+			"url" : "https://www.linkedin.com/in/vrunda-sarvaiya-b418351b2"
+		},{
+			"site" : "Mobile",
+			"url" : "9977885566"
+		}
+	]
+}
